@@ -5,6 +5,10 @@
 
 <br>
 
+**2022.04.22** 
+---
+`노마드 개발자 북클럽 Clean Code 시작`
+
 ### Clean Code
 <img src="https://user-images.githubusercontent.com/72875528/164631220-26548464-87c7-4f65-9cc3-3e2ec28f30ae.PNG" width="50%"/>
 
